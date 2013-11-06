@@ -1,0 +1,4 @@
+[{"idCompte":1,"login":"aziki","password":"aziki","role":"etudiant",
+	"idUtilisateur":{"idUtilisateur":1,"nom":"AZIKI","prenom":"Abdellatif","mail":"abdellatifaziki@gmail.com"}},
+{"idCompte":2,"login":"yagami","password":"yagami","role":"professeur",
+	"idUtilisateur":{"idUtilisateur":2,"nom":"YAGAMI","prenom":"Lightoo","mail":"lightooyagami@gmail.com"}}]
